@@ -12,8 +12,6 @@
 
     <modules>
         <module>yousu-common</module>
-        <module>yousu-manager-web</module>
-        <module>yousu-manager</module>
         <module>yousu-manager</module>
         <module>yousu-manager-web</module>
     </modules>
