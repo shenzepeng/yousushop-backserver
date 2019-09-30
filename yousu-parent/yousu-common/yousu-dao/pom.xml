@@ -20,6 +20,12 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.techflow</groupId>
+            <artifactId>yousu-utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
 
         <!-- dao需要的jar包 -->
         <!-- mysql驱动 -->
