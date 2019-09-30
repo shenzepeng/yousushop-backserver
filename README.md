@@ -1,4 +1,4 @@
-# yousushop后台(SpringBoot开发)
+# yousushop后台(SSM+maven开发)
 
 ## 一、分布式架构
 ## 二、分布式模块架构
